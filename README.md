@@ -7,8 +7,9 @@ SlideSpeak is an **AI-powered presentation tool** designed to help professionals
 ### [Use This Link To Get 85% OFF ](https://slidespeak.co/?via=abdul-raheem).
 
 
-[![Discount button](https://github.com/user-attachments/assets/e5cb2122-5258-4331-bbff-048ba1ae5555)](https://slidespeak.co/?via=abdul-raheem)
-
+<a href="https://slidespeak.co/?via=abdul-raheem">
+  <img src="https://github.com/user-attachments/assets/b9eb4d08-74cb-4b32-8a87-91394ac31fe6" alt="A beautiful sunset" style="max-width: 100%; height: auto; width: 100%;" />
+</a>
 
 This article explores everything you need to know about **SlideSpeak’s 80% off promo codes**, including how to claim them, what features you’ll unlock, and why this deal is too good to miss. We’ll also compare SlideSpeak to competitors, break down pricing after the discount, and share tips for maximizing its potential. If you’ve ever struggled with **boring slides or time-consuming edits**, this AI-powered solution—now at a fraction of the cost—could be your ultimate presentation upgrade.  
 
